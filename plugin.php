@@ -4,7 +4,7 @@
  * Description:       <strong>Embed Maps Block</strong> is a custom <strong>Gutenberg Block</strong> developed with <strong>Gutenberg Native Components</strong>. You can easily show a location in Google Map. 
  * Requires at least: 5.7
  * Requires PHP:      7.0
- * Version:           1.5.3
+ * Version:           1.5.2
  * Author:            Zakaria Binsaifullah
  * Author URI:        https://makegutenblock.com
  * License:           GPL-2.0-or-later
